@@ -1,0 +1,6 @@
+F:\OneDrive\School-CVVRS\CP1120 - Fundamentals of Programming I\Final\DebitOrCreditInformation\bin\Debug\DebitOrCreditInformation.exe.config
+F:\OneDrive\School-CVVRS\CP1120 - Fundamentals of Programming I\Final\DebitOrCreditInformation\bin\Debug\DebitOrCreditInformation.exe
+F:\OneDrive\School-CVVRS\CP1120 - Fundamentals of Programming I\Final\DebitOrCreditInformation\bin\Debug\DebitOrCreditInformation.pdb
+F:\OneDrive\School-CVVRS\CP1120 - Fundamentals of Programming I\Final\DebitOrCreditInformation\obj\Debug\DebitOrCreditInformation.csprojAssemblyReference.cache
+F:\OneDrive\School-CVVRS\CP1120 - Fundamentals of Programming I\Final\DebitOrCreditInformation\obj\Debug\DebitOrCreditInformation.exe
+F:\OneDrive\School-CVVRS\CP1120 - Fundamentals of Programming I\Final\DebitOrCreditInformation\obj\Debug\DebitOrCreditInformation.pdb
